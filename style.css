@@ -1,0 +1,145 @@
+.container  {
+    width: 100%;
+}
+
+section {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #444;
+}
+
+.dimming{
+    background: rgb(197, 193, 193);
+}
+
+.upper{
+    font-size: 20px;
+}
+
+.keyboard{
+    margin: 20px auto;
+    width: 1200px;
+    height: 250px;
+}
+
+.first-row{
+    padding-left: 7%;
+}
+
+.key {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 6px;
+    margin-bottom: 5px;
+    width: 4%;
+    text-align: center;
+}
+
+.backspace{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 8px;
+    margin-bottom: 5px;
+    width: 7%;
+    text-align: center;
+    font-size: 14px;
+}
+.tab{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px;
+    width: 7%;
+}
+
+.del{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    width: 4%;
+    font-size: 13px;
+}
+
+.capslock{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    width: 8.5%;
+    font-size: 13px;
+}
+
+.enter{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px;
+    width: 11.2%;
+}
+
+.shiftleft{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px;
+    width: 9.9%;
+}
+
+.arrowUp{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px;
+    width: 4%;
+    
+}
+
+.shiftright{
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px;
+    width: 9.9%;
+}
+
+.windows{
+    display: inline-block;
+    border: 1px solid black;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 4%;
+    text-align: center;
+    
+}
+
+.windows-image{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-bottom: 1px;
+}
+
+.img-p{
+    margin-bottom: 0px;
+}
+
+.space{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 6px;
+    margin-bottom: 5px;
+    width: 23%;
+    text-align: center;
+}
+
+.light-button{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 6px;
+    margin-bottom: 5px;
+    width: 5.5%;
+    text-align: center;
+}
